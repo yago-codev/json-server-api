@@ -1,0 +1,91 @@
+{
+    "drivers": [
+      {
+        "id": "1",
+        "name": "Usuário 1",
+        "documentNumber": "00000000000",
+        "bondVehicles": false
+      },
+      {
+        "id": "2",
+        "name": "Usuário 2",
+        "documentNumber": "00000000000",
+        "bondVehicles": false
+      },
+      {
+        "id": "3",
+        "name": "Usuário 3",
+        "documentNumber": "00000000000",
+        "bondVehicles": false
+      },
+      {
+        "id": "0ff1",
+        "name": "Teste",
+        "documentNumber": "2345234234",
+        "bondVehicle": true
+      },
+      {
+        "id": "9425",
+        "name": "Teste",
+        "documentNumber": "2424234234234",
+        "bondVehicle": true
+      },
+      {
+        "id": "ee78",
+        "name": "53345345345",
+        "documentNumber": "345345345345",
+        "bondVehicle": true
+      },
+      {
+        "id": "a307",
+        "name": "345345345345",
+        "documentNumber": "35345345",
+        "bondVehicle": true
+      },
+      {
+        "id": "0909",
+        "name": "Tetetetet",
+        "documentNumber": "345345345345",
+        "bondVehicle": true
+      },
+      {
+        "id": "1855",
+        "name": "Tteete",
+        "documentNumber": "345345345345345",
+        "bondVehicle": true
+      },
+      {
+        "id": "c47d",
+        "name": "Yetestetes",
+        "documentNumber": "3434534534545",
+        "bondVehicle": true
+      }
+    ],
+    "vehicles": [
+      {
+        "id": "1",
+        "name": "ABC",
+        "plate": "ZZZ-0000",
+        "driverId": "1"
+      },
+      {
+        "id": "2",
+        "name": "Marca",
+        "plate": "Aaa-1111",
+        "driverId": null
+      },
+      {
+        "id": "c47d1",
+        "name": "Teste",
+        "plate": "BBB-2222",
+        "driverId": null
+      },
+      {
+        "id": "c47d2",
+        "name": "Teste2",
+        "plate": "ZZZ-3333",
+        "driverId": null
+      }
+    ]
+  }
+  
